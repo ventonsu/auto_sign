@@ -1,9 +1,9 @@
 no_of_profiles:
-n/a
+0
 delay_after_type:
-n/a
+0
 password:
-n/a
+0
 zen_username:
 myusername@email.com
 zen_password:
